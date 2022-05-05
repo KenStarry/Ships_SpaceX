@@ -100,13 +100,8 @@ public class MainActivity extends AppCompatActivity implements ShipsRecyclerInte
                 filteredList.add(item);
             }
 
-            //  If filtered list is empty, display a toast
-            if (filteredList.isEmpty()) {
-                Toast.makeText(this, "No Data Found", Toast.LENGTH_SHORT).show();
-            } else {
-                //  Now pass the filtered list to the adapter so it can be displayed in the recycler view
-                shipsRecyclerAdapter.filterList(filteredList);
-            }
+            //  Now pass the filtered list to the adapter so it can be displayed in the recycler view
+            shipsRecyclerAdapter.filterList(filteredList);
         }
     }
 
