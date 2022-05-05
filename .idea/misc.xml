@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/drawable/pill_btn.xml" value="0.156" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/drawable/top_rounded_bottom_sheet.xml" value="0.156" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/layout/activity_splash_screen.xml" value="0.22447916666666667" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/layout/ship_details_bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/layout/ship_row.xml" value="0.17074275362318841" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/layout/toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Programming/Android/Projects/API/ShipsSpaceX/app/src/main/res/menu/search_view_menu.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
